@@ -1,0 +1,71 @@
+Comment:Displaying welcome message
+Explination:this means that it will display a message to the user when they first access the website
+
+
+Comment:Prompting user to enter a number
+Explination:this means that it is the programmer's responsibility to ask the user for input and ensure that the input is valid
+
+
+Comment:Checking if the number is prime
+Explination:this means that it is only divisible by 1 and itself
+
+
+Comment:Generating Fibonacci sequence up to the entered number
+Explination:this means that it will print the first n numbers in the Fibonacci sequence
+
+
+Comment:Displaying current date and time
+Explination:this means that it will display the current date and time whenever the program is run
+
+
+Comment:Displaying system information
+Explination:this means that it will display the information about the system such as the operating system, the version, the processor, the amount of memory, the amount of free space, and other details
+
+
+Comment:Creating a new directory
+Explination:this means that it is a command that is used to create a new directory or folder in the file system
+
+
+Comment:cette condion
+Explination:this means that it is the condition that is being referred to in the previous sentence
+
+
+Comment:Calling the main function
+Explination:this means that it is the starting point of the program
+
+
+Comment:cette class est appeler Class1
+Explination:this means that it is the first class in the file
+
+
+Comment:cette fonction to check if a number is prime
+Explination:this means that it is only divisible by 1 and itself
+
+
+Comment:cette fonction to generate Fibonacci sequence up to a certain limit
+Explination:this means that it will print the first n numbers in the Fibonacci sequence
+
+        Arguments
+
+
+Comment:cette fonction Main function
+Explination:this means that it is the starting point of the program
+
+
+Comment:import os
+Explination:this means that it is checking if the file or directory exists in the current working directory
+
+
+Comment:import sys
+Explination:this means that it is a python script and it is taking two command line arguments
+
+import numpy as np
+import matplotlib
+
+
+Comment:import time
+Explination:this means that it will take 10 seconds to execute the code inside the function
+
+def my_function()
+
+
